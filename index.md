@@ -1,5 +1,3 @@
-# Theoretical ML reading group
-
 The aim of the reading group is to discuss key results from interesting recent theory papers from venues such as JMLR, NIPS, ICML or similar without spending too much time on proofs unless warranted by the discussion.
 Applied papers and deep learning papers would generally be avoided.
 
