@@ -63,3 +63,7 @@ At some point in the future, I'll organise the list with indicators of the topic
 * [Fast algorithms for robust PCA via gradient descent](http://papers.nips.cc/paper/6445-fast-algorithms-for-robust-pca-via-gradient-descent.pdf) by Yi, Park, Chen and Caramanis, NIPS 2016.
 * [Adaptive randomized dimension reduction on massive data](http://jmlr.org/papers/volume18/15-143/15-143.pdf) by Darnell, Georgiev, Mukherjee and Engelhardt, JMLR 2017.
 
+## Acknowledgements
+
+Thanks to [Thibaut Lienart](https://tlienart.github.io) for founding the group and running it from Nov '18 to Jun '19.
+
