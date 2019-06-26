@@ -21,7 +21,7 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 
 **Note**: change of time from Thursday afternoon to Friday morning!
 
-* (**Jun 28, '19**) TBD. _Presenter: Neil Marchant_.
+* (**Jun 28, '19**) [Theoretically Principled Trade-off between Robustness and Accuracy](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf) by Zhang, Yu, Jiao, Xing, El Ghaoui and Jordan, ICML 2019. _Presenter: Neil Marchant_.
 
 ### Past
 
@@ -63,7 +63,6 @@ At some point in the future, I'll organise the list with indicators of the topic
 * [Fast algorithms for robust PCA via gradient descent](http://papers.nips.cc/paper/6445-fast-algorithms-for-robust-pca-via-gradient-descent.pdf) by Yi, Park, Chen and Caramanis, NIPS 2016.
 * [Adaptive randomized dimension reduction on massive data](http://jmlr.org/papers/volume18/15-143/15-143.pdf) by Darnell, Georgiev, Mukherjee and Engelhardt, JMLR 2017.
 * [The Loss Surfaces of Multilayer Networks](http://proceedings.mlr.press/v38/choromanska15.pdf) by Choromanska, Henaff, Mathieu, Arous and LeCun, AISTATS 2015.
-* [Theoretically Principled Trade-off between Robustness and Accuracy](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf) by Zhang, Yu, Jiao, Eric Xing, Laurent El Ghaoui and Jordan, ICML 2019.
 * [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://openreview.net/pdf?id=S1eK3i09YQ) by Du, Zhai, Poczos and Singh, ICLR 2019.
 * [A General and Adaptive Robust Loss Function](https://arxiv.org/abs/1701.03077) by Barron, CVPR 2019.
 * [Adversarial Examples Aren't Bugs, They're Features](https://arxiv.org/pdf/1905.02175.pdf) by Ilyas, Santurkar, Tsipras, Engstrom, Tran and Madry, arXiv 2019.
