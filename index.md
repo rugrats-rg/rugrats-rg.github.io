@@ -45,9 +45,9 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 
 ### Suggested papers to review
 
-To add papers to this list, please send me an email or let me know, it is just a draft at this point.
-The papers are (a bit arbitrarily) sorted in two blocks with the first one judged to have priority as potentially more likely to be of interest to everyone.
-At some point in the future, I'll organise the list with indicators of the topics.
+To add papers to this list, please contact one of the organisers by email (see [contact](#contact-information) details below).
+The papers are somewhat arbitrarily split into two blocks. 
+Those in the first block are deemed to be of broader interest to the group.
 
 #### priority block
 
@@ -69,6 +69,9 @@ At some point in the future, I'll organise the list with indicators of the topic
 * [A General and Adaptive Robust Loss Function](https://arxiv.org/abs/1701.03077) by Barron, CVPR 2019.
 
 
+## Contact information
+The reading group is currently run by Neil Marchant and Victor Fedyashov.
+You can find our email addresses by searching the University of Melbourne [Contact Directory](http://directory.unimelb.edu.au/).
 
 ## Acknowledgements
 
