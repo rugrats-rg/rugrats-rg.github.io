@@ -51,6 +51,10 @@ At some point in the future, I'll organise the list with indicators of the topic
 
 #### priority block
 
+* [Hamiltonian descent methods](http://jmlr.org/papers/volume18/15-205/15-205.pdf) by Maddison, Paulin, Teh, Donoghue and Doucet, arXiv 2018.
+* [Adversarial Examples Aren't Bugs, They're Features](https://arxiv.org/pdf/1905.02175.pdf) by Ilyas, Santurkar, Tsipras, Engstrom, Tran and Madry, arXiv 2019.
+* [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://openreview.net/pdf?id=S1eK3i09YQ) by Du, Zhai, Poczos and Singh, ICLR 2019.
+
 #### secondary block
 
 * [On Markov chain Monte Carlo methods for tall data](http://jmlr.org/papers/volume18/15-205/15-205.pdf) by Bardenet, Doucet and Holmes, JMLR 2017.
@@ -58,14 +62,12 @@ At some point in the future, I'll organise the list with indicators of the topic
 * [On the global linear convergence of Frank-Wolfe optimization variants](http://papers.nips.cc/paper/5925-on-the-global-linear-convergence-of-frank-wolfe-optimization-variants.pdf) by Lacoste-Julien and Jaggi, NIPS 2015.
 * [Fast and provably good seedings for k-means](https://papers.nips.cc/paper/6478-fast-and-provably-good-seedings-for-k-means.pdf) by Bachem, Lucic, Hassani and Krause, NIPS 2016.
 * [Revisiting the Nystrom method for improved large-scale machine learning](http://www.jmlr.org/papers/volume17/gittens16a/gittens16a.pdf), by Gittens and Mahoney, JMLR 2016.
-* [Hamiltonian descent methods](http://jmlr.org/papers/volume18/15-205/15-205.pdf) by Maddison, Paulin, Teh, Donoghue and Doucet, arXiv 2018.
 * [Robust and scalable bayes via a median of subset posterior measures](http://jmlr.org/papers/volume18/16-491/16-491.pdf) by Minsker, Srivastava, Lin and Dunson, JMLR 2017.
 * [Fast algorithms for robust PCA via gradient descent](http://papers.nips.cc/paper/6445-fast-algorithms-for-robust-pca-via-gradient-descent.pdf) by Yi, Park, Chen and Caramanis, NIPS 2016.
 * [Adaptive randomized dimension reduction on massive data](http://jmlr.org/papers/volume18/15-143/15-143.pdf) by Darnell, Georgiev, Mukherjee and Engelhardt, JMLR 2017.
 * [The Loss Surfaces of Multilayer Networks](http://proceedings.mlr.press/v38/choromanska15.pdf) by Choromanska, Henaff, Mathieu, Arous and LeCun, AISTATS 2015.
-* [Gradient Descent Provably Optimizes Over-parameterized Neural Networks](https://openreview.net/pdf?id=S1eK3i09YQ) by Du, Zhai, Poczos and Singh, ICLR 2019.
 * [A General and Adaptive Robust Loss Function](https://arxiv.org/abs/1701.03077) by Barron, CVPR 2019.
-* [Adversarial Examples Aren't Bugs, They're Features](https://arxiv.org/pdf/1905.02175.pdf) by Ilyas, Santurkar, Tsipras, Engstrom, Tran and Madry, arXiv 2019.
+
 
 
 ## Acknowledgements
