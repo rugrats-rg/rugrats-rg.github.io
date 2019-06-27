@@ -11,8 +11,8 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 
 ## Logistics
 
-* 📆 **schedule**: the reading groups take place on Fridays from 10am to 11am,
-* 🎪 **room**: Doug McDonell, usually 7.02 unless otherwise mentioned,
+* 📆 **schedule**: the reading group meets on Fridays from 10 am to 11 am,
+* 🎪 **room**: Doug McDonell, usually room 7.02 unless otherwise mentioned,
 * 📧 **mailing list**: you can subscribe by [clicking this link](https://lists.unimelb.edu.au/subscribe/ml-theory).
 
 ## Presentations
@@ -27,10 +27,10 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 
 * (**Jun 14, '19**) [A survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf) by Browne et al. _Presenter: Dongge Liu_.
 * (**Jun 7, '19**) [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) by Dupont, Doucet and Teh. _Presenter: Thibaut Lienart_.
-* (**May 31, '19**) [Tutorial on Thomson Sampling for Bandits algorithms](https://epubs.siam.org/doi/pdf/10.1137/18M1183480). _Presenter: Bastian Oetomo_.
+* (**May 31, '19**) Tutorial on Thomson Sampling for Bandits algorithms. _Presenter: Bastian Oetomo_.
 * (**May 23, '19**) [Why are big data matrices approximately low rank](https://epubs.siam.org/doi/pdf/10.1137/18M1183480) by Udell and Townsend. _Presenter: Victor Fedyashov_.
 * (**Apr 18, '19**) [Neural Ordinary Differential Equations](https://arxiv.org/pdf/1806.07366.pdf) by Chen, Rubanova, Bettencourt and Duvenaud. _Presenter: Thibaut Lienart_.
-* (**Mar 7, '19**) [Adaptive Data Analysis](https://protect-au.mimecast.com/s/t9StCE8knvs5D9qVuNz-y6?domain=simons.berkeley.edu  ) by Roth. _Presenter: Ben Rubinstein_.
+* (**Mar 7, '19**) [Adaptive Data Analysis](https://simons.berkeley.edu/sites/default/files/docs/10313/algorithmicapproachestopreventingoverfittinginadaptivedata-simons.pdf) by Roth. _Presenter: Ben Rubinstein_.
 * (**Feb 21, '19**) [Conservative contextual linear bandits](https://papers.nips.cc/paper/6980-conservative-contextual-linear-bandits) by Kazerouni et al. _Presenter: Masoud Khorasani_.
 * (**Feb 14, '19**) [Is Q-Learning provably efficient](https://papers.nips.cc/paper/7735-is-q-learning-provably-efficient.pdf) by Jin et al. _Presenter: Neil Marchant_.
 * (**Feb 7, '19**) [Minimising the maximal loss: how and why](http://proceedings.mlr.press/v48/shalev-shwartzb16-supp.pdf) by Shalev-Shwartz and Wexler. _Presenter: Yi Han_.
