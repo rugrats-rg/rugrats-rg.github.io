@@ -22,6 +22,7 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 **Note**: change of time from Thursday afternoon to Friday morning!
 
 * (**Jun 28, '19**) [Theoretically Principled Trade-off between Robustness and Accuracy](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf) by Zhang, Yu, Jiao, Xing, El Ghaoui and Jordan, ICML 2019. _Presenter: Neil Marchant_.
+* (**Jul 12, '19**) TBD. _Presenter: Victor Fedyashov_.
 
 ### Past
 
