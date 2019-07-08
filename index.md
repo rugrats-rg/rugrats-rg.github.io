@@ -21,7 +21,7 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 
 **Note**: change of time from Thursday afternoon to Friday morning!
 
-* (**Jul 12, '19**) TBD. _Presenter: Victor Fedyashov_.
+* (**Jul 12, '19**) [Rates of Convergence for Sparse Variational Gaussian Process Regression](http://proceedings.mlr.press/v97/burt19a/burt19a.pdf) by Burt, Rasmussen and Van der Wilk, ICML 2019. _Presenter: Victor Fedyashov_.
 
 ### Past
 
