@@ -21,10 +21,10 @@ A bit of friendly chasing will hopefully ensure this happens 🚂.
 
 **Note**: change of time from Thursday afternoon to Friday morning!
 
-* (**Jul 12, '19**) [Rates of Convergence for Sparse Variational Gaussian Process Regression](http://proceedings.mlr.press/v97/burt19a/burt19a.pdf) by Burt, Rasmussen and Van der Wilk, ICML 2019. _Presenter: Victor Fedyashov_.
 
 ### Past
 
+* (**Jul 12, '19**) [Rates of Convergence for Sparse Variational Gaussian Process Regression](http://proceedings.mlr.press/v97/burt19a/burt19a.pdf) by Burt, Rasmussen and Van der Wilk, ICML 2019. _Presenter: Victor Fedyashov_.
 * (**Jun 28, '19**) [Theoretically Principled Trade-off between Robustness and Accuracy](http://proceedings.mlr.press/v97/zhang19p/zhang19p.pdf) by Zhang, Yu, Jiao, Xing, El Ghaoui and Jordan, ICML 2019. _Presenter: Neil Marchant_.
 * (**Jun 14, '19**) [A survey of Monte Carlo Tree Search Methods](http://mcts.ai/pubs/mcts-survey-master.pdf) by Browne et al. _Presenter: Dongge Liu_.
 * (**Jun 7, '19**) [Augmented Neural ODEs](https://arxiv.org/abs/1904.01681) by Dupont, Doucet and Teh. _Presenter: Thibaut Lienart_.
